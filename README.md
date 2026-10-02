@@ -1,7 +1,7 @@
 # QuickTween
 Better Tweening
 
-```
+```luau
 const ReplicatedStorage = game:GetService("ReplicatedStorage")
 const QuickTween = require(ReplicatedStorage.Packages.QuickTween)
 
